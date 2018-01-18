@@ -1,0 +1,6 @@
+D:\Github\NoRumbleHorse\NoRumbleHorse\NoRumbleHorse\bin\Release\NoRumbleHorse.dll
+D:\Github\NoRumbleHorse\NoRumbleHorse\NoRumbleHorse\bin\Release\NoRumbleHorse.pdb
+D:\Github\NoRumbleHorse\NoRumbleHorse\NoRumbleHorse\obj\Release\NoRumbleHorse.csprojResolveAssemblyReference.cache
+D:\Github\NoRumbleHorse\NoRumbleHorse\NoRumbleHorse\obj\Release\NoRumbleHorse.csproj.CoreCompileInputs.cache
+D:\Github\NoRumbleHorse\NoRumbleHorse\NoRumbleHorse\obj\Release\NoRumbleHorse.dll
+D:\Github\NoRumbleHorse\NoRumbleHorse\NoRumbleHorse\obj\Release\NoRumbleHorse.pdb
