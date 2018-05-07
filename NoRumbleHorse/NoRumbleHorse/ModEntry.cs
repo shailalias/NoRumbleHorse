@@ -24,7 +24,7 @@ namespace NoRumbleHorse
         public override void Entry(IModHelper helper)
         {
             GameEvents.UpdateTick += this.GameEvents_UpdateTick;
-            LocationEvents.CurrentLocationChanged += this.LocationEvents_CurrentLocationChanged;
+            PlayerEvents.Warped += this.PlayerEvents_Warped;
         }
 
 
@@ -40,7 +40,7 @@ namespace NoRumbleHorse
                 
             }
         }
-        private void LocationEvents_CurrentLocationChanged(object sender, EventArgs e)
+        private void PlayerEvents_Warped(object sender, EventArgs e)
         {
 
             this.thisHorse = (Horse)null;
